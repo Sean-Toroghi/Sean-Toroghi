@@ -8,7 +8,7 @@
 
 <h1 align="center" > <b> Welcome ?  </b> </h1>
 
-<h4 align="center"> I am Sean Toroghi, <I> data scientist </I></h4>
+<h4 align="center"> I am Sean Toroghi, <I> data scientist 👋.</I></h4>
 
 
 
@@ -24,15 +24,14 @@
 class Success:
     def __init__(self, knowledge, skills, experience):
        self.knowledge = PhD
-       self.skills = [Statistics, Machine learning, Deep learning, SQL, Visualization, Algorithm, NLP, Recommender Systems]
+       self.skills = [Statistics, Machine Learning, Deep Learning, SQL, Visualization, Algorithm, NLP, Recommender Systems]
        self.expericen = { 'work': [], 'projects': []}
     def.how(self, knowledge, skills, experice):
        return knowledge +  skills + experice
-    def __repr__():
-       return "believe you can and you're halfway there"
+    def __repr__(self):
+       return repr("believe you can and you're halfway there")
 ```
-
-### Hi there 👋
+ 
 
 <!--
 **Sean-Toroghi/Sean-Toroghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
