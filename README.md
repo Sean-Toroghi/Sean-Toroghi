@@ -8,7 +8,7 @@
 
 <h1 align="center" > <b> Welcome ?  </b> </h1>
 
-<h4 align="center"> I am Sean Toroghi, <I> data scientist 👋.</I></h4>
+<h4 align="center"> My name is Sean Toroghi, and I am a <I> data scientist 👋.</I></h4>
 
 
 
@@ -25,9 +25,9 @@ class Success:
     def __init__(self, knowledge, skills, experience):
        self.knowledge = PhD
        self.skills = [Statistics, Machine Learning, Deep Learning, SQL, Visualization, Algorithm, NLP, Recommender Systems]
-       self.expericen = { 'work': [w for w in MY_WEBSITE], 'projects': [p for p in MY_WEBSITE]}
+       self.expericen = { 'Work': [w for w in MY_WEBSITE], 'Projects': [p for p in MY_WEBSITE]}
     def.how(self, knowledge, skills, experice):
-       return knowledge +  skills + experice
+       return zip(knowledge, skills, experice)
     def __repr__(self):
        return repr("believe you can and you're halfway there")
 ```
