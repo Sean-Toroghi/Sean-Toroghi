@@ -4,6 +4,34 @@
 </p>
 
 
+<br/>
+
+<h1 align="center" > <b> Welcome ?  </b> </h1>
+
+<h4 align="center"> I am Sean Toroghi, <I> data scientist </I></h4>
+
+
+
+<h4 align="center"> Welcome to my Github page!</h4>
+<br></br>
+
+<h5 align="center"> <a href="https://toroghi.org">Check out My Website (in progress) </a> </h3> 
+
+<br/>
+
+
+```python
+class Success:
+    def __init__(self, knowledge, skills, experience):
+       self.knowledge = PhD
+       self.skills = [Statistics, Machine learning, Deep learning, SQL, Visualization, Algorithm, NLP, Recommender Systems]
+       self.expericen = { 'work': [], 'projects': []}
+    def.how(self, knowledge, skills, experice):
+       return knowledge +  skills + experice
+    def __repr__():
+       return "believe you can and you're halfway there"
+```
+
 ### Hi there 👋
 
 <!--
