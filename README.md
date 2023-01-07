@@ -23,13 +23,16 @@
 ```python
 class Success:
     def __init__(self, knowledge, skills, experience):
+    
        self.knowledge = PhD
        self.skills = [Statistics, Machine Learning, Deep Learning, SQL, Visualization, Algorithm, NLP, Recommender Systems]
        self.expericen = { 'Work': [w for w in MY_WEBSITE], 'Projects': [p for p in MY_WEBSITE]}
+       
     def.how(self, knowledge, skills, experice):
        return zip(knowledge, skills, experice)
+       
     def __repr__(self):
-       return repr("believe you can and you're halfway there")
+       return repr("Believe you can and you're halfway there!")
 ```
  
 
