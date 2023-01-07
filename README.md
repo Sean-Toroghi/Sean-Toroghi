@@ -1,6 +1,6 @@
 <p align="center" >
 
- <img src="https://github.com/Sean-Toroghi/Sean-Toroghi/blob/main/resources/9B9p.gif" alt="Hi, I'm Sean 👋 I'm a Data Scientist.  ⚡ Welcome to my Github page! ⚡">
+ <img src="https://github.com/Sean-Toroghi/Sean-Toroghi/blob/main/resources/website.gif" >
 </p>
 
 
